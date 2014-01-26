@@ -1,15 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://tqtq.github.io/blog/2014/01/26/2345tian-qi-yu-bao-15tian/</loc>
+        <lastmod>2014-01-26T14:48:16+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://tqtq.github.io/</loc>
-        <lastmod>2014-01-26T12:42:44+08:00</lastmod>
+        <lastmod>2014-01-26T14:48:16+08:00</lastmod>
     </url>
     <url>
         <loc>http://tqtq.github.io/blog/archives/</loc>
-        <lastmod>2014-01-26T12:42:44+08:00</lastmod>
+        <lastmod>2014-01-26T14:48:16+08:00</lastmod>
     </url>
     <url>
         <loc>http://tqtq.github.io/robots.txt</loc>
-        <lastmod>2014-01-26T12:42:44+08:00</lastmod>
+        <lastmod>2014-01-26T13:35:03+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tqtq.github.io/assets/bootstrap/getting-started.html</loc>
+        <lastmod>2014-01-26T13:35:03+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tqtq.github.io/assets/bootstrap/about.html</loc>
+        <lastmod>2014-01-26T13:35:03+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tqtq.github.io/assets/bootstrap/components.html</loc>
+        <lastmod>2014-01-26T13:35:03+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tqtq.github.io/assets/bootstrap/</loc>
+        <lastmod>2014-01-26T14:48:16+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tqtq.github.io/assets/bootstrap/javascript.html</loc>
+        <lastmod>2014-01-26T13:35:03+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tqtq.github.io/assets/bootstrap/css.html</loc>
+        <lastmod>2014-01-26T13:35:03+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://tqtq.github.io/assets/bootstrap/customize.html</loc>
+        <lastmod>2014-01-26T13:35:03+08:00</lastmod>
     </url>
 </urlset>
