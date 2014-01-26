@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[2345天气预报]]></title>
-  <link href="http://tqtq.github.io/atom.xml" rel="self"/>
-  <link href="http://tqtq.github.io/"/>
-  <updated>2014-01-26T15:24:30+08:00</updated>
-  <id>http://tqtq.github.io/</id>
+  <link href="http://www.2345tianqi.com/atom.xml" rel="self"/>
+  <link href="http://www.2345tianqi.com/"/>
+  <updated>2014-01-26T15:28:06+08:00</updated>
+  <id>http://www.2345tianqi.com/</id>
   <author>
     <name><![CDATA[2345tianqi]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[2345天气预报15天]]></title>
-    <link href="http://tqtq.github.io/blog/2014/01/26/2345tian-qi-yu-bao-15tian/"/>
+    <link href="http://www.2345tianqi.com/blog/2014/01/26/2345tian-qi-yu-bao-15tian/"/>
     <updated>2014-01-26T13:57:22+08:00</updated>
-    <id>http://tqtq.github.io/blog/2014/01/26/2345tian-qi-yu-bao-15tian</id>
+    <id>http://www.2345tianqi.com/blog/2014/01/26/2345tian-qi-yu-bao-15tian</id>
     <content type="html"><![CDATA[<p> 在这里，我们又来了，又剪会产生光的大片从北部平原到中雪大湖和俄亥俄河谷北部周日。</p>
 
 <p> 大部分地区将获得13“的积累，在当地35 ” ，而一些南方地区的苏必利尔湖和密歇根湖的东边可以看到更大的积累。</p>
